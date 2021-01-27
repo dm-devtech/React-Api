@@ -6,16 +6,14 @@ const Table = () => {
       <thead>
         <tr>
           <th>id</th>
-          <th>Name</th>
-          <th>Region</th>
-          <th>Memory</th>
-          <th>CPUs</th>
-          <th>Disk Size</th>
+          <th>Email</th>
+          <th>first name</th>
+          <th>last name</th>
+          <th>avatar</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td></td>
           <td></td>
           <td></td>
           <td></td>
