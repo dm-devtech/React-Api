@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import Table from './components/Table.js'
 
-function App() {
+class App() extends Component {
+  constructor(props)
   return (
     <div className="App">
       <Table />
