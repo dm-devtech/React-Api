@@ -22,9 +22,9 @@ const Table = () => {
           <td></td>
           <td></td>
         </tr>
-      </tr>
-
-
-
+      </tbody>
+    </table>
   )
 }
+
+export default Table
