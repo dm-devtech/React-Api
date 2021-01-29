@@ -5,11 +5,11 @@ const Table = ({users}) => {
     <table>
       <thead>
         <tr>
-          <th>id</th>
+          <th>ID</th>
           <th>Email</th>
-          <th>first name</th>
-          <th>last name</th>
-          <th>avatar</th>
+          <th>First name</th>
+          <th>Last name</th>
+          <th>Avatar</th>
         </tr>
       </thead>
       <tbody>
